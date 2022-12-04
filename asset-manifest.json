@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/berryland-app/static/css/main.94b4928d.css",
-    "main.js": "/berryland-app/static/js/main.0c227296.js",
+    "main.js": "/berryland-app/static/js/main.9bfea64d.js",
     "static/media/icons.woff": "/berryland-app/static/media/icons.33c82acce9236647c01f.woff",
     "static/media/volna_cart.webp": "/berryland-app/static/media/volna_cart.71274f06c438ed6025aa.webp",
     "static/media/icons.woff2": "/berryland-app/static/media/icons.5aaa1180292c8c75e5ed.woff2",
@@ -9,10 +9,10 @@
     "static/media/check.svg": "/berryland-app/static/media/check.45f2e19228dfd00e3431.svg",
     "static/media/select.svg": "/berryland-app/static/media/select.52dedc249abf4e25e0ca.svg",
     "main.94b4928d.css.map": "/berryland-app/static/css/main.94b4928d.css.map",
-    "main.0c227296.js.map": "/berryland-app/static/js/main.0c227296.js.map"
+    "main.9bfea64d.js.map": "/berryland-app/static/js/main.9bfea64d.js.map"
   },
   "entrypoints": [
     "static/css/main.94b4928d.css",
-    "static/js/main.0c227296.js"
+    "static/js/main.9bfea64d.js"
   ]
 }
