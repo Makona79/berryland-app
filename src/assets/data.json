@@ -1,0 +1,110 @@
+[
+	{
+	 "id": 0,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card01.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card01.webp",
+	 "title": "Малина замороженная Премиум (2.5 кг)",
+	 "priceNew": 85,
+	 "priceOld": 93,
+	 "sizes": 2.5,
+	 "category": 1
+	},
+	{
+	 "id": 1,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card02.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card02.webp",
+	 "title": "Голубика замороженная",
+	 "priceNew": 93,
+	 "sizes": 2.5,
+	 "category": 1
+	},
+	{
+	 "id": 2,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card03.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card03.webp",
+	 "title": "Вишня замороженная",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 1
+	},
+	{
+	 "id": 3,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card04.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card04.webp",
+	 "title": "Черная смородина замороженная",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 1
+	},
+	{
+	 "id": 4,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card05.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card05.webp",
+	 "title": "Куркума с имбирем замороженные органические",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 2
+	},
+	{
+	 "id": 5,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card06.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card06.webp",
+	 "title": "Свекла витамин В12 замороженная",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 2
+	},
+	{
+	 "id": 6,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card07.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card07.webp",
+	 "title": "Моринга замороженная органическая",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 2
+	},
+	{
+	 "id": 7,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card08.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card08.webp",
+	 "title": "Кейл — кудрявая капуста замороженная",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 2
+	},
+	{
+	 "id": 8,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card09.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card09.webp",
+	 "title": "Ягода замороженная",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 1
+	},
+	{
+	 "id": 9,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card10.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card10.webp",
+	 "title": "Ассорти ягодное замороженный",
+	 "priceNew": 87,
+	 "priceOld": 93,
+	 "sizes": 1,
+	 "category": 2.5
+	},
+	{
+	 "id": 10,
+	 "imageUrlS": "https://makona79.github.io/berryland/img/card/card11.webp",
+	 "imageUrl": "https://makona79.github.io/berryland/img/card/card11.webp",
+	 "title": "Абрикос замороженные ",
+	 "priceNew": 93,
+	 "sizes": 1,
+	 "category": 1
+	}
+  ]
