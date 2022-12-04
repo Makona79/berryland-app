@@ -83,13 +83,13 @@ const CartFull = () => {
             <div class="cart-full__item-img">
               <img
                 class="pizza-block__image"
-                src="https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg"
+                src="https://makona79.github.io/berryland/img/card/card01.webp"
                 alt="Pizza"
               />
             </div>
             <div class="cart-full__item-info">
-              <h3>Чизбургер-пицца</h3>
-              <p>тонкое, 26 см.</p>
+              <h3>Малина</h3>
+              <p>2.5 кг</p>
             </div>
             <div class="cart__item-count">
               <button class="button button--outline button--circle cart__item-count-minus">
@@ -131,7 +131,7 @@ const CartFull = () => {
               </button>
             </div>
             <div class="cart__item-price">
-              <b>1660 ₽</b>
+              <b>166 ₽</b>
             </div>
             <div class="cart__item-remove">
               <div class="button button--outline button--circle">
@@ -159,11 +159,11 @@ const CartFull = () => {
           <div class="cart-full__bottom-details">
             <span>
               {" "}
-              Всего пицц: <b>4 шт.</b>{" "}
+              Всего: <b>4 шт.</b>{" "}
             </span>
             <span>
               {" "}
-              Сумма заказа: <b>1660 ₽</b>{" "}
+              Сумма заказа: <b>166 ₽</b>{" "}
             </span>
           </div>
           <div class="cart-full__bottom-buttons">
