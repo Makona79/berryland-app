@@ -83,13 +83,13 @@ const CartFull = () => {
             <div class="cart-full__item-img">
               <img
                 class="pizza-block__image"
-                src="https://makona79.github.io/berryland/img/card/card01.webp"
-                alt="ягода "
+                src="https://dodopizza.azureedge.net/static/Img/Products/Pizza/ru-RU/b750f576-4a83-48e6-a283-5a8efb68c35d.jpg"
+                alt="Pizza"
               />
             </div>
             <div class="cart-full__item-info">
-              <h3>Малина</h3>
-              <p>1кг</p>
+              <h3>Чизбургер-пицца</h3>
+              <p>тонкое, 26 см.</p>
             </div>
             <div class="cart__item-count">
               <button class="button button--outline button--circle cart__item-count-minus">
@@ -159,7 +159,7 @@ const CartFull = () => {
           <div class="cart-full__bottom-details">
             <span>
               {" "}
-              Всего : <b>4 шт.</b>{" "}
+              Всего пицц: <b>4 шт.</b>{" "}
             </span>
             <span>
               {" "}

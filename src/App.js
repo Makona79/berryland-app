@@ -20,10 +20,12 @@ function App() {
             <h3 className="shop__subtitle">Доставка на дом</h3>
             <div className="shop__body">
               <Routes>
-                <Route path="berryland-app/" element={<Home />}></Route>
+                <Route path="/" element={<Home />}></Route>
+                <Route path="/berryland-app" element={<Home />} />
                 <Route path="/cartFull" element={<CartFull />} />
                 <Route path="*" element={<NotFound />} />
               </Routes>
+              berryland-app
             </div>
           </div>
         </section>
