@@ -25,7 +25,6 @@ function App() {
                 <Route path="/cartFull" element={<CartFull />} />
                 <Route path="*" element={<NotFound />} />
               </Routes>
-              berryland-app
             </div>
           </div>
         </section>
